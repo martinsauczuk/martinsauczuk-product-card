@@ -7,6 +7,10 @@
     "dist",
     "src"
   ],
+  "repository": {
+    "url": "https://github.com/martinsauczuk/martinsauczuk-product-card",
+    "type": "git"
+  },
   "engines": {
     "node": ">=10"
   },
@@ -62,5 +66,11 @@
   },
   "dependencies": {
     "postcss": "^8.4.32"
-  }
+  },
+  "keywords": [
+    "product",
+    "card",
+    "education",
+    "training"
+  ]
 }
