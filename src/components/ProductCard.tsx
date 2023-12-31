@@ -23,7 +23,6 @@ export const ProductCard = ({children, product, className, style, onChange, valu
     const { increaseBy, counter, maxCount, isMaxCountReached, reset } = useProduct({ onChange, product, value, initialValues });
 
     return (
-
         <Provider value = {{
             counter,
             maxCount,
